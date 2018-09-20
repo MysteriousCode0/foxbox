@@ -33,7 +33,7 @@ banner = ''' %s
 
 	%s-%s Foxbox Penetration Testing tool
 	%s-%s Coded by RoadToHacker
-	%s-%s Version: 0.1
+	%s-%s Version: 1.2
 	%s-%s Github: https://github.com/RoadToHacker
 	%s-%s Instagram: road.to.hacker
 
