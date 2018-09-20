@@ -6,11 +6,11 @@ Last version: 1.2
 
 # Usage:
 
-*usage: foxbox.py [-h] [-u URL] [-d DORK] [-f FILE] [-s {sql}] [-t] [-l] [-v]
+* usage: foxbox.py [-h] [-u URL] [-d DORK] [-f FILE] [-s {sql}] [-t] [-l] [-v]
 
-*Foxbox Penetration Testing Tool
+* Foxbox Penetration Testing Tool
 
-*optional arguments:
+* optional arguments:
 *  -h, --help            show this help message and exit
 *  -u URL, --url URL     single target url
 *  -d DORK, --dork DORK  dork to use
@@ -23,7 +23,7 @@ Last version: 1.2
 *
 
 
-# Example of usage:
+# Example:
 
-*./foxbox.py -d <your dork> -s sql -t
+* ./foxbox.py -d <your dork> -s sql -t
 
